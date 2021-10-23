@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "348192948980",
+    "project_id": "emotions-based-music-player",
+    "storage_bucket": "emotions-based-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348192948980:android:e8ef0d4752d9b4e6c314a1",
+        "android_client_info": {
+          "package_name": "com.example.emotionmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348192948980-t9ppelbtkvae97uv34dlc7vv0m635p2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emotionmusicplayer",
+            "certificate_hash": "33f4ee09b3ca1fbf1cb7e7f6d95829514cffaaed"
+          }
+        },
+        {
+          "client_id": "348192948980-o8tt220ques3g070ldc5vdn29pbmg983.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO3ouoWOwize7LktkveJE5SiMx-aYL6zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348192948980-o8tt220ques3g070ldc5vdn29pbmg983.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
